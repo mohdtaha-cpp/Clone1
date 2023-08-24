@@ -1,6 +1,6 @@
 # Memories <img src="https://github.com/adi2109/Memories/assets/81423231/16d08972-8edc-412a-b734-f0f8efb5bf7d" height=100 />
 
-Memories App is a social media platform that allows users to share and view memories in the form of posts. Users can create, like, comment on posts, and perform various interactions with the content.
+Memories is a social media platform that allows users to share and view memories in the form of posts. Users can create, like, comment on posts, and perform various interactions with the content.
 
 ## UI Interface
 
